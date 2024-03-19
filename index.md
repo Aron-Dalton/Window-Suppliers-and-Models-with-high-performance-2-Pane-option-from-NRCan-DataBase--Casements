@@ -16,7 +16,7 @@ Basic Definitions:
 1. Usi - is the amount of **_heat loss_**, in Watts, for each square meter, for each degree of temperature difference  (degree Celsius ) on either side of the window.  For your comfort, and window condensation you want a lower number. 
 2. SHGC - solar heat gain coefficient - a fraction of how much heat from the sun makes it to the inside of the building.
    
-   Windows can also gain passive solar energy through the glass to help offset energy costs during the heating season. This balance is reflected in the energy-performance ratings. [^1]
+   "Windows can also gain passive solar energy through the glass to help offset energy costs during the heating season. This balance is reflected in the energy-performance ratings." [^1]
 		
    Both Overhangs and raising the window sill can help in overheating risk by only allowing diffuse solar heat gain to pass.
    
