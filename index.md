@@ -8,19 +8,23 @@ ___
                                                                                      
 <br/><br/>
 
-If you are apprehensive about installing triple ( 3 ) pane windows on your build, please see the following information on suppliers making more performant double (2) pane windows.
+### If you are apprehensive about installing triple ( 3 ) pane windows on your build, please see the following information on suppliers making more performant double (2) pane windows.
+
+---
 
 Basic Definitions:
 1. Usi - is the amount of **_heat loss_**, in Watts, for each square meter, for each degree of temperature difference  (degree Celsius ) on either side of the window.  For your comfort, and window condensation you want a lower number. 
 2. SHGC - solar heat gain coefficient - a fraction of how much heat from the sun makes it to the inside of the building.
-		
-		
+   
+   Windows can also gain passive solar energy through the glass to help offset energy costs during the heating season. This balance is reflected in the energy-performance ratings. [^1]
 		
    Both Overhangs and raising the window sill can help in overheating risk by only allowing diffuse solar heat gain to pass.
    
    If neither is an option:
    * "Caution is advised when selecting windows and sliding glass doors with passive solar heat gain (SHGC) values above 0.45 that will face south or west, especially if there is more glass area than exterior wall area (high window to wall ratio), as this could cause uncomfortably warm room temperatures and higher cooling costs" [^1]
-  
+
+___
+
 [^1]: From <https://natural-resources.canada.ca/energy-efficiency/products/product-information/windows-doors-and-skylights/technology-primer/14432> 
 
 
