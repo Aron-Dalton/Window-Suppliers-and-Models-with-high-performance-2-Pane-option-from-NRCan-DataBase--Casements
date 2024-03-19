@@ -1,4 +1,6 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Window Suppliers and Models with High Performance 2 Pane Options from NRCan DataBases]
+description: [Give a selection for all the 2 pane window doubts]
 
