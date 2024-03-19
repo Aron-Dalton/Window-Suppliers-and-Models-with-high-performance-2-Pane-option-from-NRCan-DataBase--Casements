@@ -11,7 +11,7 @@ ___
 If you are apprehensive about installing triple ( 3 ) pane windows on your build, please see the following information on suppliers making more performant double (2) pane windows.
 
 Basic Definitions:
-1. Usi - is the amount of <bold>heat loss</bold>, in Watts, for each square meter, for each degree of temperature difference  (degree Celsius ) on either side of the window.  For your comfort, and window condensation you want a lower number. 
+1. Usi - is the amount of **_heat loss_**, in Watts, for each square meter, for each degree of temperature difference  (degree Celsius ) on either side of the window.  For your comfort, and window condensation you want a lower number. 
 2. SHGC - solar heat gain coefficient - a fraction of how much heat from the sun makes it to the inside of the building.
 		
 		
