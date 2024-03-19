@@ -21,7 +21,8 @@ ___
 <br/><br/>
 <br/><br/>
 
-<img src="https://natural-resources.canada.ca/sites/nrcan/files/energy/products/categories/fenestration/FeaturesTypical_EE_Commercial_Window_en.jpg" height="300"/>  <img src="https://natural-resources.canada.ca/sites/nrcan/files/energy/products/categories/fenestration/FeaturesTypical_EE_Residential_Window_en.jpg" height="300" /> 
+| | |
+|<img src="https://natural-resources.canada.ca/sites/nrcan/files/energy/products/categories/fenestration/FeaturesTypical_EE_Commercial_Window_en.jpg" | height="300"/>  <img src="https://natural-resources.canada.ca/sites/nrcan/files/energy/products/categories/fenestration/FeaturesTypical_EE_Residential_Window_en.jpg" height="300" /> | 
 
 > *[from: https://natural-resources.canada.ca/energy-efficiency/products/product-information/windows-doors-and-skylights/technology-primer/14432](https://natural-resources.canada.ca/energy-efficiency/products/product-information/windows-doors-and-skylights/technology-primer/14432)*
 <br/><br/>
