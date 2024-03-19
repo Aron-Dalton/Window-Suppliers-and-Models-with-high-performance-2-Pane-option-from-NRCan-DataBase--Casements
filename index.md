@@ -1,6 +1,6 @@
 # Selecting Possible New Home Window Options:  
 
-## High performance Double (2) Pane Casements Options
+## High performance Double (2) Pane Casement Options
 
 ___
 
