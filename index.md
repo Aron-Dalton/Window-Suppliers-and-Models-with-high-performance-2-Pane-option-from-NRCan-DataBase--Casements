@@ -1,11 +1,8 @@
 # Selecting Possible New Home Window Options:  
 
-## High performance 2 Pane options
+## High performance Double (2) Pane Casements Options
 
 ___
-
-### Window Suppliers and Models with high performance 2 Pane option from NRCan DataBase- Casements
-
 
 <p align="right">by: Aron Dalton   , AronDalton@outlook.com  ,250-221-1127</p>
                                                                                      
