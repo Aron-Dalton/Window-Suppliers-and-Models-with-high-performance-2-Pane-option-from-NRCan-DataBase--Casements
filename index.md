@@ -18,7 +18,7 @@ Basic Definitions:
    
    "Windows can also gain passive solar energy through the glass to help offset energy costs during the heating season. This balance is reflected in the energy-performance ratings." [^1]
 		
-   Both Overhangs and raising the window sill can help in overheating risk by only allowing diffuse solar heat gain to pass.
+   Both Overhangs and raising the window sill can help in overheating risk by only allowing diffuse solar heat gain to pass.  Often short, well placed, overhangs on the south work well. For west windows, combined with the late day heat, much larger ones could be needed for comfort considerations.
    
    If neither is an option:
    * "Caution is advised when selecting windows and sliding glass doors with passive solar heat gain (SHGC) values above 0.45 that will face south or west, especially if there is more glass area than exterior wall area (high window to wall ratio), as this could cause uncomfortably warm room temperatures and higher cooling costs" [^1]
