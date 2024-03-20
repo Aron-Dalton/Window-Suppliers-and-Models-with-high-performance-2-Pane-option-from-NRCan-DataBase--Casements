@@ -1,3 +1,5 @@
+
+
 # Selecting Possible New Home Window Options:  
 
 ## High performance Double (2) Pane Casement Options
@@ -52,4 +54,13 @@ ___
 
 &nbsp;&nbsp;&nbsp;&nbsp;  :bulb: **Tip:** [ Triple Pane Windows vs. Double Pane: What’s Better?](https://www.ecolinewindows.ca/triple-pane-windows-vs-double-pane-window-features-and-comparison/)
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SNJTY4WQDF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SNJTY4WQDF');
+</script>
 
