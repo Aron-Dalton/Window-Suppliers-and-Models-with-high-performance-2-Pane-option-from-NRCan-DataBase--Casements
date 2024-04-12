@@ -24,11 +24,13 @@ Basic Definitions:
    
    If neither is an option:
    * "Caution is advised when selecting windows and sliding glass doors with passive solar heat gain (SHGC) values above 0.45 that will face south or west, **_especially if there is more glass area than exterior wall area (high window to wall ratio)_**, as this could cause uncomfortably warm room temperatures and higher cooling costs" [^1]
-
+  
+3. Shading line -
+<img src="https://images.squarespace-cdn.com/content/v1/5e5e91c81d669b146a6c675e/1585216280809-ZFI0SQHJ9UIMKDODOMB4/windows-and-overhangs.jpg"  width="400"/> [^2]
 ___
 
 [^1]: From <https://natural-resources.canada.ca/energy-efficiency/products/product-information/windows-doors-and-skylights/technology-primer/14432> 
-
+[^2]: From <https://www.pmcarchitects.com/sustainability-information-blog-content/windows-and-overhangs-in-passive-solar-heating#:~:text=Overhangs%20In%20A%20Passive%20Solar%20Home&text=The%20purpose%20of%20overhangs%20is,must%20be%20allowed%20on%20windows>
 
 #### Interactive Chart Showing Window Suppliers and Models with High Performance 2 Pane Option from NRCan DataBase- Casements
 1. [ Interactive Chart Showing Window Suppliers and Models with High Performance 2 Pane Option from NRCan DataBase- Casements.html ]( https://aron-dalton.github.io/Window-Suppliers-and-Models-with-high-performance-2-Pane-option-from-NRCan-DataBase--Casements/Window%20Suppliers%20and%20Models%20with%20high%20performance%202%20Pane%20option%20from%20NRCan%20DataBase-%20Casements.html )
