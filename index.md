@@ -26,6 +26,7 @@ Basic Definitions:
    * "Caution is advised when selecting windows and sliding glass doors with passive solar heat gain (SHGC) values above 0.45 that will face south or west, **_especially if there is more glass area than exterior wall area (high window to wall ratio)_**, as this could cause uncomfortably warm room temperatures and higher cooling costs" [^1]
   
 3. Shading line -
+   
 <img src="https://images.squarespace-cdn.com/content/v1/5e5e91c81d669b146a6c675e/1585216280809-ZFI0SQHJ9UIMKDODOMB4/windows-and-overhangs.jpg"  width="400"/> [^2]
 ___
 
